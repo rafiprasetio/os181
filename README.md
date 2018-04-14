@@ -10,3 +10,7 @@ ZCZC Telah mencoba demo Week02
 ZCZC Telah mencoba demo Week03
 
 ZCZC Telah mencoba demo Week04
+
+ZCZC Telah mencoba demo Week05
+
+ZCZC Telah mencoba demo Week06
